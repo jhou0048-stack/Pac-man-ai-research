@@ -61,12 +61,6 @@ The final Q2 agent was reported to achieve:
 
 Family-level results from the report include strong performance on `contestClassic`, `mediumClassic2`, `originalClassic`, and `trickyClassic`.
 
-## Repository Contents
-
-This repository snapshot currently contains report-related materials, including LaTeX sources under:
-
-- [`output/latex/FIT5047-36547719-Ass2-natural-version.tex`](/Users/houjiakuan/Documents/New%20project/output/latex/FIT5047-36547719-Ass2-natural-version.tex)
-- [`output/latex/FIT5047-36763624-2026S1-Ass2.tex`](/Users/houjiakuan/Documents/New%20project/output/latex/FIT5047-36763624-2026S1-Ass2.tex)
 
 If Pacman source code, agents, or evaluation scripts are added later, this README can be extended with setup and usage instructions.
 
